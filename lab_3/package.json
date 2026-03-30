@@ -1,0 +1,7 @@
+{
+  "type" : "module",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "fs": "^0.0.1-security"
+  }
+}
